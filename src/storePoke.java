@@ -16,7 +16,7 @@ public class storePoke {
 	}
 	
 	public void readinPoke(){
-		List<String> number = new ArrayList<String>();
+1		List<String> number = new ArrayList<String>();
 		List<String> name = new ArrayList<String>();
 		List<String> type1 = new ArrayList<String>();
 		List<String> type2 = new ArrayList<String>();
